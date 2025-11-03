@@ -1,0 +1,13 @@
+quick-calculator/
+├─ README.md
+├─ .gitignore
+├─ main.py
+├─ core/
+│  ├─ calculator.py
+│  └─ operations/
+│     ├─ add.py
+│     ├─ subtract.py
+│     ├─ multiply.py
+│     └─ divide.py
+└─ tests/
+   └─ test_calculator.py
